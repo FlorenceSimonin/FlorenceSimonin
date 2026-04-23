@@ -9,8 +9,11 @@
 🛠️ What I work with:
 
 Data Management: Data flows, ETL, data quality & structuring
+
 Automation: Power Automate workflows & Excel (VBA macros)
+
 Data Visualization: Power BI (design, performance, maintenance)
+
 Languages: Python, VBA, DAX, SQL
 
 ### Always aiming to turn complex data into simple, useful stories 🚀
