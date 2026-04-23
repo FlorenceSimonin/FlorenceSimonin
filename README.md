@@ -7,13 +7,13 @@
 📊 I design, optimize and maintain Power BI environments to make data clear, reliable and actionable every day.
 
 🛠️ What I work with:
-Data Management: Data flows, ETL, data quality & structuring
-Automation: Process optimization & task automation
-Data Visualization: Power BI (design, performance, maintenance)
-Languages: SQL, Python
-Tools & Ecosystem: Power Platform, APIs, data integration
 
-Always aiming to turn complex data into simple, useful stories 🚀
+Data Management: Data flows, ETL, data quality & structuring
+Automation: Power Automate workflows & Excel (VBA macros)
+Data Visualization: Power BI (design, performance, maintenance)
+Languages: Python, VBA, DAX, SQL
+
+### Always aiming to turn complex data into simple, useful stories 🚀
 
 ### 📫 How to reach me
 - 📧 florencesimonin4@gmail.com
